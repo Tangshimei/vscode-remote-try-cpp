@@ -11,3 +11,13 @@ int main() {
     cout << "Output: " << data << "\n\n";
     return 0;
 }
+int void main()
+{
+out << "Hello World\n";
+    cout << "Input: ";
+    string data;
+    getline(cin, data);
+    cout << "Output: " << data << "\n\n";
+    return 0;
+
+}
